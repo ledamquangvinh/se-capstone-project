@@ -1,19 +1,19 @@
 # Phase 01: Get requirement 
 
-## Purpose
+## 1 - Purpose
 
 - Define requirement of project.
 - Define goal of project
 - Define software process
 
-## List of Phase
+## 2 - List of Phase
 
 ![List of Phase](./images/img_01.png)
 
 Team use SCRUM process for this project.
 The project board: https://github.com/users/ledamquangvinh/projects/1
 
-## Define Requirement
+## 3 - Define Requirement
 
 We want to develop the e-commerce system for selling baby's toys such as cars, teddy bear ... The System have the functions:
 
@@ -31,3 +31,26 @@ We want to develop the e-commerce system for selling baby's toys such as cars, t
 That's all for the basic requirement!
 
 After that, the team can brainstorm to define advance features such as connect to payment gateway, notification for admin when user create an order, ...
+
+## 4 - Create project plan
+
+* Create Project Plan document.
+* Setup resource
+    * Human resources
+    * Financial resources
+    * Device resources
+    * Setup tools resource: JIRA, Github, Server,...
+
+* Define goal of project 
+* Planning for project
+    * Get requirement
+    * Analyst requirement
+    * Design
+        * Storage Design
+        * UI Design
+        * System Design
+            * Achitecture system design
+            * API Mockup design
+            * Database Shcema design
+
+            
